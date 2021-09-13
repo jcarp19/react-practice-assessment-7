@@ -1,0 +1,21 @@
+.guestlist {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+};
+.colHeading {
+    font-weight: 700;
+}
+.btnClear {
+    padding: 1em 2em;
+}
+table {
+    width: 100%;
+    border: 1px solid #222222;
+}
+tr:nth-child(even) {
+    
+    background-color:#e4e4e4;
+    
+}
